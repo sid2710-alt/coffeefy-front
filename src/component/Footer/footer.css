@@ -1,0 +1,20 @@
+.icon {
+  color: white;
+}
+
+.icon:hover {
+  color: cyan;
+}
+
+.foot {
+  position: absolute;
+  bottom: 0;
+}
+
+
+footer {
+  position: -ms-page;
+  height: 100%;
+  bottom: 0;
+  width: 100%;
+}

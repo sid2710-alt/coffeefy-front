@@ -1,0 +1,16 @@
+
+.carousel-inner {
+  background-color: black;
+}
+.carousel-inner img {
+  margin: auto;
+}
+
+
+
+@media (max-width: 480px) {
+
+  .carousel-inner img {
+    margin-left: auto;
+  }
+}
